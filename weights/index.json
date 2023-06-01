@@ -1,0 +1,15 @@
+[
+ {
+  "type": "group",
+  "id": "main",
+  "contents": [
+   {
+    "type": "ar",
+    "id": "park-guell",
+    "url": "ipfs://QmVTQRLa49XUvuCTy3UqvhAV1UTkFqhEnWM5YdNqXjfj5E",
+    "expression": "all"
+   }
+  ],
+  "tag": "main"
+ }
+]
